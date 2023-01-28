@@ -7,5 +7,5 @@ Using this code it is easy to construct your own PoS tagging models for a langua
 ## Key features
 * Extract sentences from a CoNLL-U file
 * Word tokenization and embedding
-* LSTM model creation
+* LSTM model creation, training and testing
 * Saving and loading models
